@@ -1,0 +1,33 @@
+body {
+  background-color: #f7f7f7;
+  font-family: Arial, sans-serif;
+  color: #222;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #0044cc; /* blue text */
+  text-align: center;
+  padding: 8px;
+  border-radius: 8px;
+  background-color: pink; /* pink background */
+  box-shadow: 2px 2px 10px rgba(255, 105, 180, 0.6); /* pink shadow */
+}
+
+/* Paragraphs and lists */
+p, ul, ol {
+  max-width: 800px;
+  margin: 15px auto;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 40px;
+}
+
+/* Optional: emphasize bold text */
+strong {
+  color: #cc0066;
+}
